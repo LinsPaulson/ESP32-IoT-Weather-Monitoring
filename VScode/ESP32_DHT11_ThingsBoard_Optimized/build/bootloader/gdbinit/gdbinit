@@ -1,0 +1,2 @@
+source G:/ESP-IDF_Projects/ESP32_DHT11_ThingsBoard_Optimized/build/bootloader/gdbinit/symbols
+source G:/ESP-IDF_Projects/ESP32_DHT11_ThingsBoard_Optimized/build/bootloader/gdbinit/connect
