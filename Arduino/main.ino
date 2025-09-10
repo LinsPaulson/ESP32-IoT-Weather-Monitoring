@@ -12,11 +12,11 @@
 #include "DHT.h"
 
 // WiFi Configuration
-const char* ssid = "Your_SSID";
-const char* password = "Your_PSWD";
+const char* ssid = "Your_SSID";  // Add Your WiFi SSID
+const char* password = "Your_PSWD"; // Add Your WiFi Password
 
 // ThingsBoard Configuration
-const char* thingsboardServer = "demo.thingsboard.io"; // Changed to correct endpoint
+const char* thingsboardServer = "demo.thingsboard.io"; // Add the ThingsBoard server address
 const char* mqttUser  = "Your_Token"; // Device access token from ThingsBoard
 const int mqttPort = 1883;
 
