@@ -5,6 +5,6 @@
 #define WIFI_PASS "Your password"
 
 #define THINGSBOARD_SERVER "demo.thingsboard.io" // e.g., "demo.thingsboard.io"
-#define THINGSBOARD_TOKEN "your token"
+#define THINGSBOARD_TOKEN "your token"  // "Add your Thingsboard token"
 
 #endif
