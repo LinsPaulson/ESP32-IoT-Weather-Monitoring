@@ -1,0 +1,1 @@
+Command: cmake -G Ninja -DPYTHON_DEPS_CHECKED=1 -DPYTHON=C:\Users\user\.espressif\python_env\idf5.5_py3.11_env\Scripts\python.exe -DESP_PLATFORM=1 -DSDKCONFIG='g:\Github\ESP32-IoT-Weather-Monitoring\VScode\ESP32_DHT11_ThingsBoard_Optimized\sdkconfig' -DCCACHE_ENABLE=1 G:\Github\ESP32-IoT-Weather-Monitoring\VScode\ESP32_DHT11_ThingsBoard_Optimized
